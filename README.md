@@ -15,9 +15,8 @@ CardMatch is a minimalist memory game that works completely offline! The source 
 ## Try It Out
 To scan the QR code, visit this [QR code scanning link](https://saycheese.hackclub.com/tryout.html).
 
-
 ### QR Code  
-![https://github.com/arjun654321/CardMatch-Memory-Game/blob/main/memory_game.png](#)  
+![QR Code](https://github.com/arjun654321/CardMatch-Memory-Game/blob/main/memory_game.png)  
 
 
 ## Features
